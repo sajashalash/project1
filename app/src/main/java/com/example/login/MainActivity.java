@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Switch;
 import android.widget.Toast;
-
+//this is for testing
 public class MainActivity extends AppCompatActivity {
 
 
